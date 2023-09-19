@@ -1,7 +1,7 @@
 ﻿using System;
 double a = 0.0;
-double zxc, solo;
 int c;
+double zxc, solo;
 do
 {
     Console.WriteLine("Выберите операцию:");
