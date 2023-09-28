@@ -94,7 +94,7 @@ do
             Console.Write("Введите число: ");
             zxc = double.Parse(Console.ReadLine());
             a = CalculateFactorial(zxc);
-            Console.WriteLine($"Факториал {zxc} равен {a}");
+            Console.WriteLine($"Факториал {zxc} = {a}");
             break;
         case 9:
             Console.WriteLine("Стоп.");
